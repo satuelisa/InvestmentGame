@@ -1,0 +1,10 @@
+INVESTOR BACKGROUND DarkOliveGreen1
+TRUSTEE BACKGROUND lavender
+INVESTOR INVEST blue
+INVESTOR KEEP aquamarine4
+TRUSTEE RETURN LightGoldenrod2
+TRUSTEE KEEP salmon
+TRUSTEE TOTAL brown
+INVESTOR SUMMARY lightGray
+# http://stackoverflow.com/questions/732192/get-tk-winfo-rgb-without-having-a-window-instantiated
+
